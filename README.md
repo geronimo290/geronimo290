@@ -1,4 +1,56 @@
-## Hi there 👋
+## 👨‍💻 Sobre mí
+
+Hola, soy Geronimo — una persona proactiva y curiosa que disfruta descubriendo patrones, resolviendo problemas y contando historias a través de los datos.
+
+🎯 Aspirante a **Data Scientist / Machine Learning Engineer**.  
+💡 Autodidacta y automotivado: aprendo mejor haciendo y construyendo.  
+🧠 Interesado en proyectos que implican aprender, descubrir y proponer soluciones creativas.  
+📚 Actualmente profundizando mis habilidades en **Python**, **estadística** y **ML/DL** para aplicarlas en problemas del mundo real.  
+🌟 También me encanta el café, los gatos, los comics y mangas.
+
+💻 **Data Scientist & ML Engineer** 
+Interesado en diseño de flujos de Machine Learning y en seguir profundizando en buenas prácticas de desarrollo y despliegue de modelos.
+
+## 🚀 Lo que hago
+- Desarrollo modelos de ML y análisis de datos.
+- Mejoro pipelines y procesos de forma progresiva.
+- Visualizo datos para extraer información valiosa.
+- Diseño flujos **end-to-end** de ML y MLOps.
+- Creo proyectos con impacto técnico y de negocio.
+
+## 📂 Proyectos destacados
+- [Proyecto NLP]([link_proyecto](https://github.com/geronimo290/Sistema-de-Recomendaci-n-Comiquer-a)) – Sistema de Recomendación
+
+## 🛠 Tecnologías y Herramientas
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3C3C3C?logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+## 📫 Conecta conmigo
+- [LinkedIn](link_linkedin)
+
+
+## Actualmente Aprendiendo 
+🧠 Fortalecimiento de los fundamentos en estadística y aprendizaje automático.
+🐍 Mejoramdo de la fluidez de Python para el manejo de datos, análisis y secuencias de comandos
+🧰 Trabajando con bibliotecas de ciencia de datos como pandas, NumPy, scikit-learn, Tensorflow/Keras, y Pytorch
+📊 Avanzando en Power BI
+🧪 Practicar la resolución de problemas del mundo real a través de proyectos de porfolio, análisis exploratorio y código limpio
+🚀 Explorar los flujos de trabajo de aprendizaje automático, la evaluación de modelos y las herramientas básicas de implementación como Streamlit
+
+---
+✨ *Gracias por pasar, ¡happy coding!*
 
 <!--
 **geronimo290/geronimo290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
