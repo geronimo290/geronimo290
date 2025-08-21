@@ -1,4 +1,4 @@
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Hola, soy Geronimo — una persona proactiva y curiosa que disfruta descubriendo patrones, resolviendo problemas y contando historias a través de los datos.
 
@@ -41,13 +41,15 @@ Interesado en diseño de flujos de Machine Learning y en seguir profundizando en
 - [LinkedIn](link_linkedin)
 
 
-## Actualmente Aprendiendo 
-🧠 Fortalecimiento de los fundamentos en estadística y aprendizaje automático.
-🐍 Mejoramdo de la fluidez de Python para el manejo de datos, análisis y secuencias de comandos
-🧰 Trabajando con bibliotecas de ciencia de datos como pandas, NumPy, scikit-learn, Tensorflow/Keras, y Pytorch
-📊 Avanzando en Power BI
-🧪 Practicar la resolución de problemas del mundo real a través de proyectos de porfolio, análisis exploratorio y código limpio
-🚀 Explorar los flujos de trabajo de aprendizaje automático, la evaluación de modelos y las herramientas básicas de implementación como Streamlit
+## Actualmente aprendiendo
+
+🧠 Fortaleciendo fundamentos de **estadística**, **probabilidad** y **aprendizaje automático**.  
+🐍 Mejorando la fluidez en **Python** para análisis de datos, automatización y scripting.  
+🧰 Profundizando en bibliotecas de ciencia de datos: **pandas**, **NumPy**, **scikit-learn**, **TensorFlow/Keras** y **PyTorch**.  
+📊 Avanzando en **Power BI** y visualización de datos orientada a negocio.  
+🧪 Resolviendo problemas del mundo real mediante **proyectos de portfolio**, análisis exploratorio y código limpio.  
+🚀 Explorando flujos de trabajo de **ML**, evaluación de modelos y despliegue con **Streamlit**.  
+☁️ Aprendiendo conceptos básicos de **cloud computing** y despliegue en entornos como **Azure** o **AWS**. 
 
 ---
 ✨ *Gracias por pasar, ¡happy coding!*
