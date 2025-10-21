@@ -19,7 +19,9 @@ Interesado en diseño de flujos de Machine Learning y en seguir profundizando en
 - Creo proyectos con impacto técnico y de negocio.
 
 ## 📂 Proyectos destacados
-- [Proyecto NLP]([link_proyecto](https://github.com/geronimo290/Sistema-de-Recomendaci-n-Comiquer-a)) – Sistema de Recomendación
+- [Proyecto NLP](https://github.com/geronimo290/Sistema-de-Recomendaci-n-Comiquer-a) – Sistema de Recomendación
+- [Proyecto DL Vision Computer](https://github.com/geronimo290/Clasificador-de-Im-genes-Deep-Learning-con-Keras-y-Pytorch-) - Classificador de Imagenes
+- [Proyecto Series Temporales](https://github.com/geronimo290/Comparaci-n-de-Modelos-de-Series-Temporales) - Prediccion de Tiempos por Vuelta 
 
 ## 🛠 Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
