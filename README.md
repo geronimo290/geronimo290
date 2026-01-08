@@ -21,7 +21,8 @@ Interesado en diseño de flujos de Machine Learning y en seguir profundizando en
 ## 📂 Proyectos destacados
 - [Proyecto NLP](https://github.com/geronimo290/Sistema-de-Recomendaci-n-Comiquer-a) – Sistema de Recomendación
 - [Proyecto DL Vision Computer](https://github.com/geronimo290/Clasificador-de-Im-genes-Deep-Learning-con-Keras-y-Pytorch-) - Classificador de Imagenes
-- [Proyecto Series Temporales](https://github.com/geronimo290/Comparaci-n-de-Modelos-de-Series-Temporales) - Prediccion de Tiempos por Vuelta 
+- [Proyecto Series Temporales](https://github.com/geronimo290/Comparaci-n-de-Modelos-de-Series-Temporales) - Prediccion de Tiempos por Vuelta
+- [QABot-Project](https://github.com/geronimo290/QABot-Project) - QA Bot para análisis de documentos PDF (migrado de arquitectura propietaria en Watsonx a LLama 3 Opensource)
 
 ## 🛠 Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
