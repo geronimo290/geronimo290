@@ -19,10 +19,13 @@ Interesado en diseño de flujos de Machine Learning y en seguir profundizando en
 - Creo proyectos con impacto técnico y de negocio.
 
 ## 📂 Proyectos destacados
+- [Proyecto Frameworks](https://github.com/geronimo290/Proyecto_integrador_frameworks) – Aplicacion de FastAPI y Streamlit
 - [Proyecto NLP](https://github.com/geronimo290/Sistema-de-Recomendaci-n-Comiquer-a) – Sistema de Recomendación
 - [Proyecto DL Vision Computer](https://github.com/geronimo290/Clasificador-de-Im-genes-Deep-Learning-con-Keras-y-Pytorch-) - Classificador de Imagenes
 - [Proyecto Series Temporales](https://github.com/geronimo290/Comparaci-n-de-Modelos-de-Series-Temporales) - Prediccion de Tiempos por Vuelta
 - [QABot-Project](https://github.com/geronimo290/QABot-Project) - QA Bot para análisis de documentos PDF (migrado de arquitectura propietaria en Watsonx a LLama 3 Opensource)
+
+
 
 ## 🛠 Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -35,13 +38,18 @@ Interesado en diseño de flujos de Machine Learning y en seguir profundizando en
 ![Seaborn](https://img.shields.io/badge/Seaborn-3C3C3C?logo=seaborn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6F61?logo=gradio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
 ## 📫 Conecta conmigo
-- [LinkedIn](link_linkedin)
+- [LinkedIn](www.linkedin.com/in/gero-pautazzo-88900325a)
 
 
 ## Actualmente aprendiendo
