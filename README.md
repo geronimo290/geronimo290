@@ -64,13 +64,13 @@ TensorFlow/Keras • PyTorch • Hugging Face • LangChain • RAG • ChromaDB
 Gradio • Streamlit • FastAPI • Git
 
 **Idiomas**  
-Español (Nativo) • Inglés (B1 Intermedio)
+Español (Nativo) • Inglés (B2)
 
 ---
 
 ### Educación
 
-- Ingeniería en Inteligencia Artificial – Universidad Nacional del Litoral (en curso)  
+- Ciencia de Datos - Universidad Siglo 21 
 - Certificaciones complementarias – Coursera (2024–2026)  
 - Técnico Electromecánico – EETP N°277 (2019)
 
